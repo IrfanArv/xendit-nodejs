@@ -1,0 +1,9 @@
+node_modules/
+.env
+.prod.env
+.dev.env
+.DS_Store
+package-lock.json
+src/config/configDatabase.json
+# src/config/configDatabase.json
+uploads/
